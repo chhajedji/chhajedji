@@ -11,6 +11,4 @@
 * * *
 ### Connect with me:
 
-[Twitter](http://www.twitter.com/chhajedji)        [Instagram](http://www.instagram.com/chhajedji)        [LinkedIn](https://www.linkedin.com/in/chhajedji/)
-
-</center>
+[Twitter](http://www.twitter.com/chhajedji)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](http://www.instagram.com/chhajedji)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/chhajedji/)
