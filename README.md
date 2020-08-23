@@ -1,5 +1,7 @@
 # Chinmay A. Chhajed
 
+![](https://komarev.com/ghpvc/?username=chhajedji)
+
 * * *
 
 *   Working as embedded engineer with [Espressif Systems](https://www.espressif.com/) in Pune.
