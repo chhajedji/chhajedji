@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=chhajedji)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=chhajedji)
+
 * * *
 
 *   Working as embedded engineer with [Espressif Systems](https://www.espressif.com/) in Pune.
