@@ -1,8 +1,11 @@
 # Chinmay A. Chhajed
 
+<!--
+Just some fancy stuff about stats :P
 ![](https://komarev.com/ghpvc/?username=chhajedji)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chhajedji)
+-->
 
 * * *
 
