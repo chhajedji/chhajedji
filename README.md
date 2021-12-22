@@ -9,7 +9,7 @@ Just some fancy stuff about stats :P
 
 * * *
 
-*   Working as embedded engineer with [Espressif Systems](https://www.espressif.com/) in Pune.
+*   Worked as Firmware engineer with [Espressif Systems](https://www.espressif.com/) and contributed mainly in the Bluetooth stack of [esp-idf](https://github.com/espressif/esp-idf).
 
 *   Linux enthusiast who loves to set up environment for working more than actually working!
 
