@@ -2,7 +2,7 @@
 
 <!--
 Just some fancy stuff about stats :P
-![](https://komarev.com/ghpvc/?username=chhajedji)
+  ![](https://komarev.com/ghpvc/?username=chhajedji)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chhajedji)
 
@@ -27,3 +27,5 @@ Just some fancy stuff about stats :P
 ### Connect with me:
 
 [Twitter](http://www.twitter.com/chhajedji)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](http://www.instagram.com/chhajedji)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/chhajedji/)
+
+![](https://komarev.com/ghpvc/?username=chhajedji)
