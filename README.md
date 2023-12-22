@@ -26,6 +26,6 @@ Just some fancy stuff about stats :P
 
 ### Connect with me:
 
-[Twitter](http://www.twitter.com/chhajedji)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](http://www.instagram.com/chhajedji)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/chhajedji/)
+[X](http://www.x.com/chhajedji)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](http://www.instagram.com/chhajedji)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/chhajedji/)
 
 ![](https://komarev.com/ghpvc/?username=chhajedji)
