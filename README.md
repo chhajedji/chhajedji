@@ -12,13 +12,17 @@ Just some fancy stuff about stats :P
 
 * * *
 
-*   Pursing Masters in Computer and Information Technology @ [Purdue University](https://www.purdue.edu/).
+*   Currently with Western Digital.
+
+*   Alma Mater:
+    *	[Purdue University](https://purdue.edu/)
+    *	[Pune Institute of Computer Technology](https://pict.edu/)
 
 *   Worked as Firmware engineer with [Espressif Systems](https://www.espressif.com/) and contributed mainly in the Bluetooth stack of [esp-idf](https://github.com/espressif/esp-idf).
 
 *   Linux enthusiast who loves to set up environment for working more than actually working!
 
-*   Electronics and Telecommunication graduate from [PICT](https://www.pict.edu).
+*   Talk with me about **Network Security**, **System Security**, **Operating Systems**, **IoT**, **Embedded Systems**, **Linux**, and anything on similar page.
 
 * * *
 
